@@ -23,12 +23,15 @@ Here is a picture of our table:
 #### 4. We came to a conclusion that around 1500 employees are eligible for the mentorship program out of all the employees retiring and still with the company. In our query we also made tables for years 1952, 1953, and 1954 showing retiring employees in those years and saved in our data folder. We can send this list to the managers of their department and they can plan a sweet farewell for those employees with their team. This can be a very good team-building activity for them all.
 
 Retiring Employees in 1952:
+
 ![retiring employees 1952](https://github.com/KJoshi111/Pewlett-Hackard-Analysis/blob/main/Tables/retiring_emp52.png)
 
 Retiring Employees in 1953:
+
 ![retiring employees 1953](https://github.com/KJoshi111/Pewlett-Hackard-Analysis/blob/main/Tables/retiring_emp53.png)
 
 Retiring Employees in 1954:
+
 ![retiring employees 1954](https://github.com/KJoshi111/Pewlett-Hackard-Analysis/blob/main/Tables/retiring_emp54.png)
 
 ## Summary: 
